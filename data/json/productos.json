@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cupiditate",
+    "categoria": "Juguetes",
+    "precio": 205278,
+    "proveedor": {
+      "nombre": "Cuadrado PLC",
+      "pais": "Jordania"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Sunt",
+    "categoria": "Electrónica",
+    "precio": 164745,
+    "proveedor": {
+      "nombre": "Palau-León",
+      "pais": "Belarús"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Earum",
+    "categoria": "Hogar",
+    "precio": 303463,
+    "proveedor": {
+      "nombre": "Cabañas, Ibáñez and Blasco",
+      "pais": "Palau"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Deleniti",
+    "categoria": "Accesorios",
+    "precio": 74398,
+    "proveedor": {
+      "nombre": "Andrés PLC",
+      "pais": "Congo"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Amet",
+    "categoria": "Ropa",
+    "precio": 242187,
+    "proveedor": {
+      "nombre": "Meléndez Ltd",
+      "pais": "Nigeria"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Similique",
+    "categoria": "Hogar",
+    "precio": 105014,
+    "proveedor": {
+      "nombre": "Huguet-Saura",
+      "pais": "República Dominicana"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Commodi",
+    "categoria": "Ropa",
+    "precio": 271521,
+    "proveedor": {
+      "nombre": "Girona, Mateos and Gonzalo",
+      "pais": "Mozambique"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Eligendi",
+    "categoria": "Accesorios",
+    "precio": 462719,
+    "proveedor": {
+      "nombre": "Enríquez, Mena and Riquelme",
+      "pais": "Brunei Darussalam"
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Consequatur",
+    "categoria": "Accesorios",
+    "precio": 76899,
+    "proveedor": {
+      "nombre": "Huertas Ltd",
+      "pais": "Palau"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Blanditiis",
+    "categoria": "Juguetes",
+    "precio": 79027,
+    "proveedor": {
+      "nombre": "Aranda, Manjón and Duarte",
+      "pais": "Malasia"
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Voluptates",
+    "categoria": "Hogar",
+    "precio": 66472,
+    "proveedor": {
+      "nombre": "Campillo-Losa",
+      "pais": "Haití"
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Eius",
+    "categoria": "Accesorios",
+    "precio": 362443,
+    "proveedor": {
+      "nombre": "Solera LLC",
+      "pais": "Austria"
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Quos",
+    "categoria": "Electrónica",
+    "precio": 393768,
+    "proveedor": {
+      "nombre": "Villanueva PLC",
+      "pais": "Tayikistán"
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Placeat",
+    "categoria": "Ropa",
+    "precio": 335895,
+    "proveedor": {
+      "nombre": "Méndez-Lorenzo",
+      "pais": "Bulgaria"
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "Quo",
+    "categoria": "Accesorios",
+    "precio": 329259,
+    "proveedor": {
+      "nombre": "Posada-Gilabert",
+      "pais": "Islas Marshall"
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Repellat",
+    "categoria": "Hogar",
+    "precio": 474769,
+    "proveedor": {
+      "nombre": "Osorio-Amador",
+      "pais": "Vanuatu"
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Tempora",
+    "categoria": "Hogar",
+    "precio": 418045,
+    "proveedor": {
+      "nombre": "Hernandez Inc",
+      "pais": "Vanuatu"
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Ex",
+    "categoria": "Ropa",
+    "precio": 347225,
+    "proveedor": {
+      "nombre": "Castro-Viñas",
+      "pais": "Vietman"
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Non",
+    "categoria": "Ropa",
+    "precio": 128597,
+    "proveedor": {
+      "nombre": "Poza, Peláez and Real",
+      "pais": "Mauricio"
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Repudiandae",
+    "categoria": "Ropa",
+    "precio": 127505,
+    "proveedor": {
+      "nombre": "Mir Inc",
+      "pais": "República de Moldova"
+    }
+  }
+]
