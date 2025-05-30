@@ -7,7 +7,7 @@ Este proyecto implementa el proceso de **extracción de datos (Extract)** de un 
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 ETL/
@@ -31,7 +31,7 @@ ETL/
 
 ---
 
-## 📌 Fuentes de Datos Utilizadas
+##  Fuentes de Datos Utilizadas
 
 | Fuente         | Tipo              | Script                      | Archivo generado                   |
 |----------------|-------------------|------------------------------|-------------------------------------|
@@ -43,17 +43,33 @@ ETL/
 
 ---
 
-## 🏁 Carga Final
+## Comandos para ejecutar los scripts
 
-Todos los archivos `.csv` generados son integrados en una base de datos central (`repositorio_final.db`) mediante el script:
+Asegúrate de estar ubicado en la carpeta del proyecto. Ejecuta cada script en este orden:
 
 ```bash
+# 1. Extracción desde API
+py scripts/extract_from_api.py
+
+# 2. Extracción desde archivo CSV
+py scripts/extract_from_csv.py
+
+# 3. Extracción desde archivo JSON
+py scripts/extract_from_json.py
+
+# 4. Extracción desde archivo Excel
+py scripts/extract_from_excel.py
+
+# 5. Extracción desde base de datos SQLite
+py scripts/extract_from_mysql.py
+
+# 6. Carga final a base de datos unificada
 py scripts/load_to_database.py
 ```
 
 ---
 
-## ✅ Requisitos
+## Requisitos
 
 - Python 3.10 o superior
 - Librerías:
@@ -69,7 +85,7 @@ pip install pandas requests openpyxl
 
 ---
 
-## ✨ Resultado
+##  Resultado
 
 Se genera una base de datos con 5 tablas (una por fuente), lo que permite integrar información desde distintos orígenes en un solo repositorio consultable.
 
